@@ -26,7 +26,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency                  "grpc", "~> 0.13.1"
   gem.add_dependency                  "beefcake", "~> 1.0"
   gem.add_dependency                  "google-api-client", "~> 0.8.3"
-  gem.add_dependency                  "mime-types", "~> 2.4"
+  gem.add_dependency                  "mime-types", "~> 1.6"
   gem.add_dependency                  "digest-crc", "~> 0.4"
   gem.add_dependency                  "zonefile", "~> 1.04"
 
